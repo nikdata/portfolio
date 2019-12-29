@@ -2,12 +2,12 @@
 
 This repo holds project reports and my resume for my data science work.
 
-- Resume holds the latest copy of my resume in both Word (.docx) and PDF (.pdf) formats
-- Reports holds project reports for my academic work at Northwestern University.
+- [Resume](https://github.com/nikdata/portfolio/tree/master/Resume) holds the latest copy of my resume in PDF format
+- [Reports](https://github.com/nikdata/portfolio/tree/master/Reports) holds project reports for my academic work at Northwestern University.
 
 ---
 
-Here's a summary of the projects:
+Here's a brief summary of the projects:
 
 - Wins per game predictive modeling for over 100 years of baseball data using regression and decision trees using *glm*, *caret*, *broom*.
 - Wine case purchase volume predictive modeling using poisson, negative binomial, and hurdle models using *glm*, *caret*, *broom*
